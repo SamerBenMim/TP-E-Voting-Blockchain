@@ -64,3 +64,6 @@ The aim of this project was to create a transparent, secure, and decentralized v
 ## Conclusion
 
 This project provided practical experience in developing a decentralized voting application. Feel free to explore the source code and contribute to its improvement!
+
+![Local Image](./371509589_907953114009876_3146360291150418432_n.png)
+
